@@ -1,6 +1,6 @@
 var require = {
   paths: {
-    jquery: 'lib/jquery-1.10.2.min'
+    jquery: 'lib/jquery/jquery'
   },
   baseUrl: '/',
   shim: {}

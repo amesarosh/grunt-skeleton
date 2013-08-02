@@ -1,0 +1,13 @@
+{
+  "name": "my-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "*",
+    "requirejs": "*"
+  },
+  "exportsOverride": {
+    "requirejs": {
+      "js": "require.js"
+    }
+  }
+}
